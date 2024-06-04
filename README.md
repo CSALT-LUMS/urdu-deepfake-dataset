@@ -48,4 +48,4 @@ The dataset is available on Google Drive and Huggingface datasets through the fo
 
 ## Legal
 
-Creative Commons Attribution 4.0 license for the data hosted on HuggingFace and Google Drive. 
+CC BY-NC 4.0 license for the data hosted on HuggingFace and Google Drive. 
