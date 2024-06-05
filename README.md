@@ -31,9 +31,8 @@ The dataset is organized into folders, each containing audio files for the respe
 
 ## Usage
 
-The dataset is available on Google Drive and Huggingface datasets through the following links:
-- Google Drive: <Add Link>
-- Huggingface Datasets: https://huggingface.co/datasets/CSALT/deepfake_detection_dataset_urdu
+The dataset is available on Huggingface through the following link:
+- Huggingface Dataset: https://huggingface.co/datasets/CSALT/deepfake_detection_dataset_urdu
 
 ## Citation
 ```
